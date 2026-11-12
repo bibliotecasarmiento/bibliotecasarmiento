@@ -102,7 +102,7 @@ Docentes: Sebastián Thüer, Carlos Esteban Pascual, Elias Claudio Asaad. Organi
 
 ### Respaldo editable institucional
 
-Se conserva **por separado** de este repositorio, en \[lugar\], e incluye:
+Se conserva **por separado** de este repositorio, en el [drive](https://drive.google.com/file/d/1evuWAXUYR3kPyN2LBGlwplKeEdamgH9T/view?usp=drive_link) del mail de la biblioteca, e incluye:
 
 - Archivo de contenido exportado desde *Herramientas → Exportar* (`.xml`).  
 - Imágenes y archivos de la biblioteca de medios.  
